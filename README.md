@@ -24,6 +24,13 @@ Se trabaja exclusivamente con el archivo `application_train.csv`, perteneciente 
 - `TARGET = 0`: cliente que no incumple
 - `TARGET = 1`: cliente que incumple
 
+## Acceso al dataset
+
+El archivo `application_train.csv` no se incluye directamente en el historial del repositorio debido a las restricciones de tamaño de GitHub.
+
+Para facilitar la reproducción del proyecto, el dataset completo se encuentra disponible en la sección **Releases** de este repositorio.
+
+
 ## Metodología
 
 El proyecto se desarrolla en las siguientes etapas:
