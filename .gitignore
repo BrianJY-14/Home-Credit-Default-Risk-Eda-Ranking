@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.env
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Salidas opcionales
+outputs/
+figures/
+artifacts/
